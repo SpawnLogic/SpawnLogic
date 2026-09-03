@@ -3,75 +3,139 @@ layout: default
 title: SpawnLogic
 ---
 
-# SpawnLogic
+<section class="hero">
 
-## Software Engineering • DevOps • Cloud • AI
+<div class="eyebrow">SOFTWARE ENGINEERING · DEVOPS · CLOUD · AI</div>
 
+<h1>Build.<br>Automate.<br><span>Engineer.</span></h1>
+
+<p class="hero-text">
 I build, automate, experiment, and learn across modern software engineering workflows.
+</p>
 
-My technical interests span application development, DevOps automation, containerization, cloud platforms, distributed computing, and generative AI.
+<div class="hero-actions">
+<a href="https://github.com/SpawnLogic">GitHub</a>
+<a href="mailto:specializedarchive@gmail.com">Contact</a>
+</div>
 
----
+</section>
 
-## Technical Stack
+<section class="section">
 
-### Development
+<div class="section-label">01 / DEVELOPMENT</div>
 
-**Python**
+<h2>Building software</h2>
 
-Python development, scripting, automation, and application workflows.
+<p>
+Application development, Python programming, scripting, automation,
+and practical software engineering.
+</p>
 
-### DevOps
+<div class="tech-grid">
 
-**Git • GitHub • Jenkins • Docker**
+<div class="tech-card">
+<strong>PYTHON</strong>
+<span>Development · Scripting · Automation</span>
+</div>
 
-Version control, repository workflows, CI/CD automation, build pipelines, and containerized development.
+<div class="tech-card">
+<strong>SOFTWARE ENGINEERING</strong>
+<span>Application design · Development · Testing</span>
+</div>
 
-### Cloud & AI
+</div>
 
-**Oracle Cloud Infrastructure • Generative AI**
+</section>
 
-Cloud computing, AI platforms, and generative AI application concepts.
+<section class="section">
 
-### Distributed Computing
+<div class="section-label">02 / DEVOPS</div>
 
-**Apache Spark • Hadoop • YARN**
+<h2>Automating the workflow</h2>
 
-Distributed data processing and cluster computing concepts.
+<p>
+Version control, continuous integration, build automation,
+and containerized development.
+</p>
 
----
+<div class="tech-grid">
 
-## Engineering Focus
+<div class="tech-card">
+<strong>GIT / GITHUB</strong>
+<span>Version control · Repository workflows</span>
+</div>
 
-| Area | Technologies |
-|---|---|
-| Development | Python |
-| Version Control | Git, GitHub |
-| CI/CD | Jenkins |
-| Containers | Docker |
-| Cloud | Oracle Cloud Infrastructure |
-| AI | Generative AI |
-| Distributed Computing | Apache Spark, Hadoop, YARN |
+<div class="tech-card">
+<strong>JENKINS</strong>
+<span>CI/CD · Build automation · Pipelines</span>
+</div>
 
----
+<div class="tech-card">
+<strong>DOCKER</strong>
+<span>Containers · Images · Development environments</span>
+</div>
 
-## Current Learning
+</div>
 
-Expanding practical knowledge across:
+</section>
 
-* Software engineering
-* DevOps and CI/CD
-* Cloud computing
-* Generative AI
-* Distributed systems
-* Application development
+<section class="section">
 
----
+<div class="section-label">03 / CLOUD & AI</div>
 
-## Approach
+<h2>Cloud meets intelligence</h2>
 
-```text
-Learn → Build → Automate → Test → Improve
-```
-## Github 
-[Click here to view my github account↗️](https://github.com/SpawnLogic)
+<p>
+Exploring cloud platforms and generative AI through
+hands on experimentation and structured learning.
+</p>
+
+<div class="tech-grid">
+
+<div class="tech-card">
+<strong>ORACLE CLOUD</strong>
+<span>Cloud infrastructure · AI services</span>
+</div>
+
+<div class="tech-card">
+<strong>GENERATIVE AI</strong>
+<span>AI concepts · Applications · LLM workflows</span>
+</div>
+
+</div>
+
+</section>
+
+<section class="section">
+
+<div class="section-label">04 / DISTRIBUTED COMPUTING</div>
+
+<h2>Working with data at scale</h2>
+
+<div class="tech-grid">
+
+<div class="tech-card">
+<strong>APACHE SPARK</strong>
+<span>Distributed data processing</span>
+</div>
+
+<div class="tech-card">
+<strong>HADOOP / YARN</strong>
+<span>Cluster computing · Resource management</span>
+</div>
+
+</div>
+
+</section>
+
+<section class="section final-section">
+
+<div class="section-label">05 / APPROACH</div>
+
+<h2>Learn → Build → Automate → Improve</h2>
+
+<p>
+Practical experimentation, continuous learning, and incremental improvement.
+</p>
+
+</section>
