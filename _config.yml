@@ -1,8 +1,9 @@
 title: SpawnLogic
 description: Software Engineering • DevOps • Cloud • AI
-logo: null
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/hacker@v0.2.0
 
-github:
-  is_project_page: false
+plugins:
+  - jekyll-remote-theme
+
+show_downloads: false
