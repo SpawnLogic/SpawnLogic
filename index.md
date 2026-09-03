@@ -1,141 +1,201 @@
 ---
 layout: default
-title: SpawnLogic
+title: Home
 ---
 
 <section class="hero">
 
-<div class="eyebrow">SOFTWARE ENGINEERING · DEVOPS · CLOUD · AI</div>
+  <div class="hero-topline">
+    <span>01</span>
+    <span>SOFTWARE ENGINEERING / DEVOPS / CLOUD / AI</span>
+  </div>
 
-<h1>Build.<br>Automate.<br><span>Engineer.</span></h1>
+  <h1>
+    I build things<br>
+    <span>that work.</span>
+  </h1>
 
-<p class="hero-text">
-I build, automate, experiment, and learn across modern software engineering workflows.
-</p>
+  <p class="hero-description">
+    Software engineering, automation, cloud infrastructure,
+    distributed computing, and intelligent systems.
+  </p>
 
-<div class="hero-actions">
-<a href="https://github.com/SpawnLogic">GitHub</a>
-<a href="mailto:specializedarchive@gmail.com">Contact</a>
-</div>
+  <div class="hero-actions">
+    <a class="primary-button" href="https://github.com/SpawnLogic">
+      Explore GitHub ↗
+    </a>
 
-</section>
+    <a class="secondary-button" href="mailto:specializedarchive@gmail.com">
+      Get in touch
+    </a>
+  </div>
 
-<section class="section">
-
-<div class="section-label">01 / DEVELOPMENT</div>
-
-<h2>Building software</h2>
-
-<p>
-Application development, Python programming, scripting, automation,
-and practical software engineering.
-</p>
-
-<div class="tech-grid">
-
-<div class="tech-card">
-<strong>PYTHON</strong>
-<span>Development · Scripting · Automation</span>
-</div>
-
-<div class="tech-card">
-<strong>SOFTWARE ENGINEERING</strong>
-<span>Application design · Development · Testing</span>
-</div>
-
-</div>
+  <div class="scroll-indicator">
+    <span>SCROLL TO EXPLORE</span>
+    <span>↓</span>
+  </div>
 
 </section>
 
-<section class="section">
 
-<div class="section-label">02 / DEVOPS</div>
+<section class="section" id="stack">
 
-<h2>Automating the workflow</h2>
+  <div class="section-heading">
+    <span class="section-number">02</span>
 
-<p>
-Version control, continuous integration, build automation,
-and containerized development.
-</p>
+    <div>
+      <div class="section-label">TECH STACK</div>
+      <h2>Tools of the trade.</h2>
+    </div>
+  </div>
 
-<div class="tech-grid">
+  <div class="stack-grid">
 
-<div class="tech-card">
-<strong>GIT / GITHUB</strong>
-<span>Version control · Repository workflows</span>
-</div>
+    <div class="stack-card">
+      <div class="card-number">01</div>
 
-<div class="tech-card">
-<strong>JENKINS</strong>
-<span>CI/CD · Build automation · Pipelines</span>
-</div>
+      <div class="card-icon">⌘</div>
 
-<div class="tech-card">
-<strong>DOCKER</strong>
-<span>Containers · Images · Development environments</span>
-</div>
+      <h3>Development</h3>
 
-</div>
+      <p>
+        Building applications, scripts, and software
+        with a focus on practical engineering.
+      </p>
+
+      <div class="tags">
+        <span>Python</span>
+        <span>Programming</span>
+        <span>Automation</span>
+      </div>
+    </div>
+
+
+    <div class="stack-card">
+      <div class="card-number">02</div>
+
+      <div class="card-icon">⚙</div>
+
+      <h3>DevOps</h3>
+
+      <p>
+        Version control, CI/CD pipelines, build automation,
+        and containerized environments.
+      </p>
+
+      <div class="tags">
+        <span>Git</span>
+        <span>GitHub</span>
+        <span>Jenkins</span>
+        <span>Docker</span>
+      </div>
+    </div>
+
+
+    <div class="stack-card">
+      <div class="card-number">03</div>
+
+      <div class="card-icon">◈</div>
+
+      <h3>Cloud & AI</h3>
+
+      <p>
+        Exploring cloud infrastructure and generative AI
+        through practical experimentation.
+      </p>
+
+      <div class="tags">
+        <span>OCI</span>
+        <span>Cloud</span>
+        <span>Generative AI</span>
+      </div>
+    </div>
+
+
+    <div class="stack-card">
+      <div class="card-number">04</div>
+
+      <div class="card-icon">▦</div>
+
+      <h3>Distributed Computing</h3>
+
+      <p>
+        Working with distributed processing and
+        cluster computing concepts.
+      </p>
+
+      <div class="tags">
+        <span>Apache Spark</span>
+        <span>Hadoop</span>
+        <span>YARN</span>
+      </div>
+    </div>
+
+  </div>
 
 </section>
 
-<section class="section">
 
-<div class="section-label">03 / CLOUD & AI</div>
+<section class="section focus-section" id="focus">
 
-<h2>Cloud meets intelligence</h2>
+  <div class="section-heading">
 
-<p>
-Exploring cloud platforms and generative AI through
-hands on experimentation and structured learning.
-</p>
+    <span class="section-number">03</span>
 
-<div class="tech-grid">
+    <div>
+      <div class="section-label">CURRENT FOCUS</div>
+      <h2>Always learning.</h2>
+    </div>
 
-<div class="tech-card">
-<strong>ORACLE CLOUD</strong>
-<span>Cloud infrastructure · AI services</span>
-</div>
+  </div>
 
-<div class="tech-card">
-<strong>GENERATIVE AI</strong>
-<span>AI concepts · Applications · LLM workflows</span>
-</div>
+  <div class="focus-list">
 
-</div>
+    <div class="focus-item">
+      <span>01</span>
+      <strong>Software Engineering</strong>
+      <p>Designing and building reliable applications.</p>
+    </div>
 
-</section>
+    <div class="focus-item">
+      <span>02</span>
+      <strong>DevOps & CI/CD</strong>
+      <p>Automating development and delivery workflows.</p>
+    </div>
 
-<section class="section">
+    <div class="focus-item">
+      <span>03</span>
+      <strong>Cloud Computing</strong>
+      <p>Learning cloud infrastructure and services.</p>
+    </div>
 
-<div class="section-label">04 / DISTRIBUTED COMPUTING</div>
+    <div class="focus-item">
+      <span>04</span>
+      <strong>Generative AI</strong>
+      <p>Exploring modern AI systems and applications.</p>
+    </div>
 
-<h2>Working with data at scale</h2>
-
-<div class="tech-grid">
-
-<div class="tech-card">
-<strong>APACHE SPARK</strong>
-<span>Distributed data processing</span>
-</div>
-
-<div class="tech-card">
-<strong>HADOOP / YARN</strong>
-<span>Cluster computing · Resource management</span>
-</div>
-
-</div>
+  </div>
 
 </section>
 
-<section class="section final-section">
 
-<div class="section-label">05 / APPROACH</div>
+<section class="contact-section" id="contact">
 
-<h2>Learn → Build → Automate → Improve</h2>
+  <div class="contact-label">04 / CONTACT</div>
 
-<p>
-Practical experimentation, continuous learning, and incremental improvement.
-</p>
+  <h2>Let's build something.</h2>
+
+  <p>
+    Open to technical conversations, collaboration,
+    and interesting engineering problems.
+  </p>
+
+  <a
+    class="primary-button"
+    href="mailto:specializedarchive@gmail.com"
+  >
+    specializedarchive@gmail.com ↗
+  </a>
 
 </section>
